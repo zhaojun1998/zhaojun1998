@@ -2,7 +2,7 @@
 
 ![visitors-count](https://visitor-badge.laobi.icu/badge?page_id=zhaojun1998.readme)
 
-[![zhaojun github stats](https://git-info.jun6.net/api?username=zhaojun1998&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/zhaojun1998)
+[![zhaojun github stats](https://git-info.jun6.net/api?username=zhaojun1998&show_icons=true&count_private=true)](https://github.com/zhaojun1998)
 
 
 ### Languages and Tools
