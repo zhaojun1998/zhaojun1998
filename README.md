@@ -22,5 +22,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhaojun1998&" alt="zhaojun1998" /></p>
 
-<p><img align="center" src="https://raw.githubusercontent.com/zhaojun1998/zhaojun1998/output/github-contribution-grid-snake.svg" alt="zhaojun1998" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhaojun1998/zhaojun1998/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhaojun1998/zhaojun1998/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zhaojun1998/zhaojun1998/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
